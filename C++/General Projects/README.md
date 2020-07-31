@@ -12,4 +12,7 @@ Recommends friends to a user based on the people they share the most connections
 #### MorrisQp5
 Functions like a library that can rent books based on availability and recieve them when they are returned.
 
+#### MorrisQp6
+Calculates the carbon footprint of different modes of transportation. 
+
 
